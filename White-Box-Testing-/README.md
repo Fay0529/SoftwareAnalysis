@@ -1,1 +1,1 @@
-![image-20191115210743488](https://github.com/Fay0529/SoftwareAnalysis/White-Box-Testing-/blob/master/IMG/img.png)
+![image-20191115210743488](https://github.com/Fay0529/SoftwareAnalysis/tree/master/White-Box-Testing-/IMG/img.png)
